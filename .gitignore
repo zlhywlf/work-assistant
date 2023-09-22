@@ -1,2 +1,9 @@
 .vscode
 bin
+out
+.idea
+*.iml
+target
+*.log
+node_modules
+dist
